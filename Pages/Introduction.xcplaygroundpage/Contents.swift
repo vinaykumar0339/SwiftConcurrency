@@ -44,7 +44,7 @@ Concurrency in real life refers to the ability to handle multiple activities sim
 
 /*: # How Can we Achieve Concurrency in iOS?
 1. [Achieving multithreading by creating threads manually.](CreatingThreadsManually)
-2. GCD (Grand Central Dispatch)
+2. [GCD (Grand Central Dispatch)](GrandCentralDispatch(GCD))
 3. Operation Queues
 4. Modern Concurrency By Swift. (async and await)
 */

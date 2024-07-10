@@ -91,7 +91,7 @@ DispatchQueue.main.async {
 ## Efficient Resource Management:
 * GCD manages a pool of threads internally by taking most of the developer works for managing resources.
 * Reduces overhead from thread creation and destruction, optimizing performance
-## Quality of Service (QoS) Support: (Will talk about this in depth in uncoming posts)
+## Quality of Service (QoS) Support: (Will talk about this in depth in upcoming posts)
 * Supports QoS attributes (e.g., background, utility, user-initiated) to prioritize tasks
 * Adapts dynamically to system load, ensuring optimal task scheduling
 */
